@@ -41,6 +41,7 @@ The data set is available on Kaggle.com and after cleaning is organized as follo
 - Number of Views Last 7 Days
 
 Link to dataset: https://www.kaggle.com/datasets/karthikbhandary2/boat-sales
+
 Link to Tableau Dashboard: https://public.tableau.com/app/profile/paige.p./viz/InfluencingFactorsinOnlineTraffic/Story1
 
 This analysis was organized into the following folders:
